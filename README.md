@@ -22,7 +22,7 @@ Penalties will apply for plans that involve repeated cooking and rewarming or pa
 This list might be extended in further development.
 
 Possible Inputs
-The algorithm will need an input for the size and number of shelves in each persons oven as well as which e;lemtns of the roast they want to cook and for how many people. 
+The algorithm will need an input for the size and number of shelves in each persons oven as well as which elements of the roast they want to cook and for how many people. 
 
 This list might also be extended in further development.
 
@@ -44,7 +44,7 @@ This algorithm would need data specific to cooking roasts, such as:
 
 Recipes and timings for the various possible components of a roast dinner
 the dimensions of the oven, number of shelves, and possible distances between them 
-The AI methods suitable for this project are probably simulated annealing, genetic algorithms, and similar methods.
+The AI methods used for this project are probably genetic algorithm, simulated annealing, and reinforcement learning
 
 Challenges
 Challenges in Implementation
