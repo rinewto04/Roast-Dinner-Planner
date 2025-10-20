@@ -2,7 +2,7 @@
 Building AI course project
 Idea for a software that uses AI methods to optimize and inform you of the cooking timings for the various components of a roast dinner and comes up with a timing plan so it's all ready at the correct time.
 
-## Summary
+##Summary
 This software will optimize the cooking timings for the various components of a roast dinner and come up with a timing plan so it's already at the correct time.
 
 ##Background
